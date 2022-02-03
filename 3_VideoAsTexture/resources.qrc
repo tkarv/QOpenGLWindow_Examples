@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/videos">
+        <file>sample-5s.mp4</file>
+    </qresource>
+</RCC>
